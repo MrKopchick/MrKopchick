@@ -7,12 +7,14 @@ My name Illya and I live in Kiev, 14 y.o
 
 ## My Work
 
-Now in 14 y.o I work as an assistant at the Robocode programming school, my job is to help the teacher and fix bugs
 
-I also actively create games, take part in game jams and upload games to the playmarket, and this is all in the team. I make them in the Unity engine using C#
+> Now in 14 y.o I work as an assistant at the Robocode programming school, my job is to help the teacher and fix bugs
 
-I also want to say that I can specialize very well in creating telegram bots, especially the server part. I use python and sql for this
+> I also actively create games, take part in game jams and upload games to the playmarket, and this is all in the team. I make them in the Unity engine using C#
 
-### if you are interested in me, then just write to me and tell me what to do
+> I also want to say that I can specialize very well in creating telegram bots, especially the server part. I use python and sql for this
 
-ну или как говорится - тупой среди умных
+### If you are interested in me, then just write to me and tell me what to do
+
+
+ну или как я о себе говорю - тупой среди умных
