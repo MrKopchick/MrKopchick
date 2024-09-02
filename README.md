@@ -14,3 +14,5 @@ I also actively create games, take part in game jams and upload games to the pla
 I also want to say that I can specialize very well in creating telegram bots, especially the server part. I use python and sql for this
 
 ### if you are interested in me, then just write to me and tell me what to do
+
+ну или как говорится - тупой среди умных
